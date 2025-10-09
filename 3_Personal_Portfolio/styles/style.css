@@ -1,16 +1,25 @@
+.wrapper {
+    width: 760px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
 .header-container {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
 }
 
 .logo-container {
     display: flex;
+    flex-direction: column;
     align-items: center;
 }
 
 .nav-container {
     display: flex;
-    align-items: stretch;
+    justify-content: center;
 }
 
 .navigation {
@@ -32,23 +41,38 @@
 
 .content-container {
     display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.experience-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 
 .reviews-container {
     display: flex;
-    align-items: self-start;
+    align-items: center;
     flex-direction: column;
 }
 
 .reviews-content {
     display: flex;
+    flex-direction: column;
 }
 
 .footer-container {
     display: flex;
     justify-content: center;
 }
-
+/*
 @media (min-width: 768px) {
-    
+    .header-container {
+        flex-direction: row;
+    }
+    .logo-container {
+        flex-direction: row;
+    }
 }
+*/
