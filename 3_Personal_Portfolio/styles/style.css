@@ -1,5 +1,5 @@
 .wrapper {
-    width: 760px;
+    width: 640px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -68,10 +68,30 @@
 }
 
 @media (min-width: 768px) {
+    .wrapper {
+        width: 1280px;
+    }
     .header-container {
         flex-direction: row;
     }
+
     .logo-container {
+        flex-direction: row;
+    }
+
+    .content-container {
+        flex-direction: row;
+    }
+
+    .experience-container {
+        align-items: self-start;
+    }
+
+    .reviews-container{
+        align-items: self-start;
+    }
+
+    .reviews-content {
         flex-direction: row;
     }
 }
