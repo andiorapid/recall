@@ -71,11 +71,11 @@
     .wrapper {
         width: 1280px;
     }
-    .header-container {
+    .header {
         flex-direction: row;
     }
 
-    .logo-container {
+    .header__logo-wrapper {
         flex-direction: row;
     }
 
