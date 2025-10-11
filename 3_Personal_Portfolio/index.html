@@ -29,89 +29,95 @@
                 </nav>
             </div>
         </header>
-        <main class="main-container">
-            <section class="name-container">
-                <h1>Frontend Developer</h1>
-                <p>html only with proper layout, no styling</p>
-            </section>
-            <section class="content-container">
-                <section>
-                    <h3>Projects</h3>
-                    <ul>
-                        <li><a href="">HTML Only Portfolio</a></li>
-                        <li><a href="">Calculator</a></li>
-                        <li><a href="">Quiz App</a></li>
-                        <li><a href="">Countdown Timer</a></li>
-                        <li><a href="">Product Upcoming Page</a></li>
-                    </ul>
+        <main class="main">
+            <div class="main__profile-wrapper">
+                <section class="profile">
+                    <h1 class="profile__title">Frontend Developer</h1>
+                    <p class="profile__subtitle">html only with proper layout, no styling</p>
                 </section>
-                <section class="experience-container">
-                    <h3>Work Experience</h3>
-                    <article>
-                        <h4>roadmap.sh</h4>
-                        <p>Solved all the frontend projects</p>
-                        <p><a href="">Visit my Profile</a></p>
-                    </article>
-                    <article>
-                        <h4>OpenSource Work</h4>
-                        <p>Contributed to 50 opensource projects. Made my own projects with 200 GitHub Stars.</p>
-                        <p><a href="">Visit my GitHub Profile</a></p>
-                    </article>
+            </div>
+            <div class="main__content-wrapper">
+                <section class="content">
+                    <div class="content__projects-wrapper">                  
+                        <section class="projects">
+                            <h3 class="projects__title">Projects</h3>
+                            <ul class="projects__list">
+                                <li class="projects__list-element"><a href="">HTML Only Portfolio</a></li>
+                                <li class="projects__list-element"><a href="">Calculator</a></li>
+                                <li class="projects__list-element"><a href="">Quiz App</a></li>
+                                <li class="projects__list-element"><a href="">Countdown Timer</a></li>
+                                <li class="projects__list-element"><a href="">Product Upcoming Page</a></li>
+                            </ul>
+                        </section>
+                    </div>
+                    <section class="experience-container">
+                        <h3>Work Experience</h3>
+                        <article>
+                            <h4>roadmap.sh</h4>
+                            <p>Solved all the frontend projects</p>
+                            <p><a href="">Visit my Profile</a></p>
+                        </article>
+                        <article>
+                            <h4>OpenSource Work</h4>
+                            <p>Contributed to 50 opensource projects. Made my own projects with 200 GitHub Stars.</p>
+                            <p><a href="">Visit my GitHub Profile</a></p>
+                        </article>
+                    </section>
+                    <aside>
+                        <h3>Education</h3>
+                        <p>Graduated with 3.76 out of 4 CGPA. Won Acme Hackathon. Organized 30 sessions.</p>
+                        <p>Courses I took:</p>
+                        <ul>
+                            <li>Object Oriented Programming</li>
+                            <li>Data Structures and Algorithms</li>
+                            <li>Web Engineering</li>
+                            <li>Artificial Intellegence</li>
+                            <li>Human Computer Interaction</li>
+                            <li>Computer Graphics</li>
+                            <li>Database Management Systems</li>
+                            <li>Distributed Database Systems</li>
+                            <li>Discreet Mathematics</li>
+                        </ul>
+                    </aside>
                 </section>
-                <aside>
-                    <h3>Education</h3>
-                    <p>Graduated with 3.76 out of 4 CGPA. Won Acme Hackathon. Organized 30 sessions.</p>
-                    <p>Courses I took:</p>
-                    <ul>
-                        <li>Object Oriented Programming</li>
-                        <li>Data Structures and Algorithms</li>
-                        <li>Web Engineering</li>
-                        <li>Artificial Intellegence</li>
-                        <li>Human Computer Interaction</li>
-                        <li>Computer Graphics</li>
-                        <li>Database Management Systems</li>
-                        <li>Distributed Database Systems</li>
-                        <li>Discreet Mathematics</li>
-                    </ul>
-                </aside>
-            </section>
-            <section class="reviews-container">
-                <section class="reviews-header">
-                    <h3>Reviews from my Teachers</h3>
+            </div>
+            <div class="main__reviews-wrapper">
+                <section class="reviews">
+                    <h3 class="reviews__header">Reviews from my Teachers</h3>
+                    <section class="reviews__content">
+                        <article>
+                            <blockquote>
+                                John doe was a brilliant student; always
+                                stood out with his assignments.
+                            </blockquote>
+                            <footer>
+                                <p>John Doe</p>
+                                <p>Assistant Professor</p>
+                            </footer>
+                        </article>
+                        <article>
+                            <blockquote>
+                                John doe was a brilliant student; always
+                                stood out with his assignments.
+                            </blockquote>
+                            <footer>
+                                <p>John Doe</p>
+                                <p>Assistant Professor</p>
+                            </footer>
+                        </article>
+                        <article>
+                            <blockquote>
+                                John doe was a brilliant student; always
+                                stood out with his assignments.
+                            </blockquote>
+                            <footer>
+                                <p>John Doe</p>
+                                <p>Assistant Professor</p>
+                            </footer>
+                        </article>
+                    </section>
                 </section>
-                <section class="reviews-content">
-                    <article>
-                        <blockquote>
-                            John doe was a brilliant student; always
-                            stood out with his assignments.
-                        </blockquote>
-                        <footer>
-                            <p>John Doe</p>
-                            <p>Assistant Professor</p>
-                        </footer>
-                    </article>
-                    <article>
-                        <blockquote>
-                            John doe was a brilliant student; always
-                            stood out with his assignments.
-                        </blockquote>
-                        <footer>
-                            <p>John Doe</p>
-                            <p>Assistant Professor</p>
-                        </footer>
-                    </article>
-                    <article>
-                        <blockquote>
-                            John doe was a brilliant student; always
-                            stood out with his assignments.
-                        </blockquote>
-                        <footer>
-                            <p>John Doe</p>
-                            <p>Assistant Professor</p>
-                        </footer>
-                    </article>
-                </section>
-            </section>
+            </div>
         </main>
         <footer class="footer">
             <p class="footer__copyright">&copy; all rights reserved 2025</p>
