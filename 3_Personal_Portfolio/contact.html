@@ -29,19 +29,27 @@
                 </nav>
             </div>
         </header>
-        <main>
-            <section>
-                <h1>Contact Me</h1>
-                <form action="">
-                    <label for="name"></label>
-                    <input type="text" name="name" id="">
-                    <label for="email"></label>
-                    <input type="email" name="email" id="">
-                    <label for="message"></label>
-                    <textarea name="message" id=""></textarea>
-                    <button type="submit">Send</button>
-                </form>
-            </section>
+        <main class="main">
+            <div class="main__contacts-wrapper">
+                <section class="contacts">
+                    <h1 class="contacts__heading">Contact Me</h1>
+                    <form action="" class="contacts__form">
+                        <div class="contacts__field">
+                            <label for="name" class="contacts__label">Name</label>
+                            <input type="text" name="name" id="name" class="contacts__input">
+                        </div>
+                        <div class="contacts__field">
+                            <label for="email" class="contacts__label">Email</label>
+                            <input type="email" name="email" id="" class="contacts__input">
+                        </div>
+                        <div class="contacts__field contacts__field-textarea">
+                            <label for="message" class="contacts__label">Message</label>
+                            <textarea name="message" id="" class="contacts__input contacts__input-message"></textarea>
+                        </div>
+                        <button type="submit" class="contacts__button">Send</button>
+                    </form>
+                </section>
+            </div>
         </main>
         <footer class="footer">
             <p class="footer__copyright">&copy; all rights reserved 2025</p>
