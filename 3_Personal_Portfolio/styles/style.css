@@ -37,10 +37,17 @@
     margin: 0 5px;
 }
 
-.main-container {
+.main {
+    width: 100%;
     display: flex;
-    align-items: center;
     flex-direction: column;
+    justify-content: center;
+}
+
+.main__profile-wrapper {
+    width: 80%;
+    display: flex;
+    justify-content: center;
 }
 
 .name-container {
