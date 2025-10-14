@@ -45,9 +45,14 @@
 }
 
 .main__profile-wrapper {
-    width: 80%;
+    width: 100%;
     display: flex;
     justify-content: center;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
 }
 
 .name-container {
