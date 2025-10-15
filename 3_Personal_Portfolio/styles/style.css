@@ -40,8 +40,8 @@
 .main {
     width: 100%;
     display: flex;
+    align-items: center;
     flex-direction: column;
-    justify-content: center;
 }
 
 .main__profile-wrapper {
@@ -55,23 +55,11 @@
     flex-direction: column;
 }
 
-.main__content-wrapper {
-    width: 100%;
+.main__projects-wrapper {
     display: flex;
 }
 
-.content {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-}
-
-.content__projects-wrapper {
-    display: flex;
-}
-
-.content__experience-wrapper {
+.main__experience-wrapper {
     display: flex;
     justify-content: center;
     flex-direction: column;
