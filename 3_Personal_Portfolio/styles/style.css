@@ -77,18 +77,11 @@
     flex-direction: column;
 }
 
-/*
-.reviews-container {
+.main__reviews-wrapper {
     display: flex;
     align-items: center;
     flex-direction: column;
 }
-
-.reviews-content {
-    display: flex;
-    flex-direction: column;
-}
-*/
 
 .footer {
     display: flex;
