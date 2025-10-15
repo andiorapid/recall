@@ -65,6 +65,12 @@
     flex-direction: column;
 }
 
+.experience {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
 .main__reviews-wrapper {
     display: flex;
     align-items: center;
