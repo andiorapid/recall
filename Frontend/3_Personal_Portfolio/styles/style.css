@@ -105,6 +105,8 @@
     }
 
     .main__content-wrapper {
+        width: 768px;
+        align-items: flex-start;
         flex-direction: row;
     }
 }
