@@ -76,13 +76,18 @@
     display: flex;
     justify-content: center;
 }
-/*
+
 @media (min-width: 768px) {
 
+    .wrapper {
+        align-items: center;
+    }
+
     .header {
-        width: 1920px;
+        width: 768px;
         align-items: center;
         flex-direction: row;
+        justify-content: space-between;
     }
 
     .logo {
@@ -99,4 +104,3 @@
         height: 50px;
     }
 }
-*/
