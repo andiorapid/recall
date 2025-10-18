@@ -109,4 +109,8 @@
         align-items: flex-start;
         flex-direction: row;
     }
+
+    .experience {
+        align-items: flex-start;
+    }
 }
