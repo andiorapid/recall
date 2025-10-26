@@ -5,6 +5,10 @@
     justify-content: center;
 }
 
+.datapicker__controls {
+    border: 1px solid;
+}
+
 .calendar__weekdays {
     display: flex;
     justify-content: center;
