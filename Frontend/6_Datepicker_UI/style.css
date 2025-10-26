@@ -1,7 +1,10 @@
 .main {
-    
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
+}
+
+.calendar__weekdays {
+    display: flex;
 }
