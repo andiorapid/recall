@@ -7,4 +7,5 @@
 
 .calendar__weekdays {
     display: flex;
+    justify-content: center;
 }
