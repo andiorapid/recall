@@ -14,7 +14,8 @@
 }
 
 .datapicker__calendar {
-    border: 1px solid;  
+    border: 1px solid;
+    margin-top: 2px;
 }
 
 .calendar__weekdays {
