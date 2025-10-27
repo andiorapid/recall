@@ -9,6 +9,10 @@
     border: 1px solid;
 }
 
+.datapicker__calendar {
+    border: 1px solid;  
+}
+
 .calendar__weekdays {
     display: flex;
     justify-content: center;
