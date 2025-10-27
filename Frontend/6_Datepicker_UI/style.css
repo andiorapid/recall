@@ -5,6 +5,11 @@
     justify-content: center;
 }
 
+.datapicker {
+    display: flex;
+    flex-direction: column;
+}
+
 .datapicker__controls {
     border: 1px solid;
 }
