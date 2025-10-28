@@ -31,3 +31,8 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+
+.calendar__day {
+    width: 14.2857%;
+}
