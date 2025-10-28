@@ -18,6 +18,10 @@
     margin-top: 2px;
 }
 
+.calendar {
+    width: fit-content;
+}
+
 .calendar__weekdays {
     display: flex;  
     justify-content: space-around;
