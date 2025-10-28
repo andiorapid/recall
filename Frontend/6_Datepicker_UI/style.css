@@ -19,6 +19,6 @@
 }
 
 .calendar__weekdays {
-    display: flex;
-    justify-content: center;
+    display: flex;  
+    justify-content: space-around;
 }
