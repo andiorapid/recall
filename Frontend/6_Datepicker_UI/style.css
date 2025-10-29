@@ -24,6 +24,7 @@
 
 .calendar__heading {
     display: flex;
+    justify-content: space-around;
 }
 
 .calendar__weekdays {
