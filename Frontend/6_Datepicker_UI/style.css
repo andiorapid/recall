@@ -22,6 +22,10 @@
     width: fit-content;
 }
 
+.calendar__heading {
+    display: flex;
+}
+
 .calendar__weekdays {
     display: flex;
     justify-content: space-around;
