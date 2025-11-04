@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Wrtie File name:"
 read filename
 
