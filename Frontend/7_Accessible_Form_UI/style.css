@@ -9,6 +9,7 @@
 
 .main__profile-completeness-list {
     display: flex;
+    border-radius: 10px;
     flex-direction: column;
     background-color: lightgray;
 }
