@@ -8,6 +8,7 @@
 }
 
 .main__profile-completeness-list {
+    padding: 1em;
     display: flex;
     border-radius: 10px;
     flex-direction: column;
