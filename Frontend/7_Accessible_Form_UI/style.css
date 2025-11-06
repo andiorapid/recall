@@ -6,3 +6,8 @@
 .main__sections {
     display:flex;
 }
+
+.main__profile-completeness-list {
+    display: flex;
+    flex-direction: column;
+}
