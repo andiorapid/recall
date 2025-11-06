@@ -10,4 +10,5 @@
 .main__profile-completeness-list {
     display: flex;
     flex-direction: column;
+    background-color: lightgray;
 }
