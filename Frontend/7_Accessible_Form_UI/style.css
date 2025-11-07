@@ -9,7 +9,7 @@
 
 .main__form-section {
     display: flex;
-    padding: 1em;
+    padding: 0.5em;
     flex-direction: column;
     justify-content: center;
 }
@@ -29,6 +29,6 @@
     display: flex;
     border-radius: 10px;
     flex-direction: column;
-    background-color: lightgray;
     justify-content: center;
+    background-color: lightgray;
 }
