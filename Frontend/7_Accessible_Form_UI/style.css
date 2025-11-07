@@ -12,6 +12,10 @@
     flex-direction: column;
 }
 
+.main__form-button {
+    background-color: black;
+}
+
 .main__profile-completeness-list {
     padding: 1em;
     display: flex;
