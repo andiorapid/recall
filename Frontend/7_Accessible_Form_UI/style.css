@@ -7,6 +7,12 @@
     display:flex;
 }
 
+.main__form-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .main__form-group {
     display: flex;
     flex-direction: column;
