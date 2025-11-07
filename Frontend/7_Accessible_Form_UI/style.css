@@ -9,6 +9,7 @@
 
 .main__form-section {
     display: flex;
+    padding: 1em;
     flex-direction: column;
     justify-content: center;
 }
