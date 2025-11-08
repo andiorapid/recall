@@ -23,6 +23,10 @@
     border: 0.1em solid black;
 }
 
+.main__form-input:user-invalid {
+    border: 0.1em solid red;
+}
+
 .main__form-button {
     color: white;
     border: 0em solid;
