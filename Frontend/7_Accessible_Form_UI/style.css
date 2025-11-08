@@ -6,6 +6,7 @@
 .main__sections {
     display:flex;
     border: 0.1em solid black;
+    border-radius: 1em;
 }
 
 .main__form-section {
