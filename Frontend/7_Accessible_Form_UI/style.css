@@ -19,6 +19,10 @@
     flex-direction: column;
 }
 
+.main__form-input {
+    border: 0.1em solid black;
+}
+
 .main__form-button {
     color: white;
     border: 0px;
