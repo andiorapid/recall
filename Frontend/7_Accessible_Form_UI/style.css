@@ -37,7 +37,7 @@
 
 .main__profile-completeness-list {
     display: flex;
-    border-radius: 10px;
+    border-radius: 0.5em;
     flex-direction: column;
     justify-content: center;
     background-color: lightgray;
