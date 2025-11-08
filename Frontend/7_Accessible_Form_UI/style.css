@@ -21,8 +21,9 @@
 
 .main__form-button {
     color: white;
+    border: 0px;
     padding: 0 1em 0 1em;
-    border-radius: 0.5em;
+    border-radius: 0.5em;   
     background-color: black;
 }
 
