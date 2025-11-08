@@ -4,8 +4,8 @@
 }
 
 .main__sections {
-    display:flex;
     border: 0.1em solid black;
+    display:flex;
     border-radius: 1em;
 }
 
