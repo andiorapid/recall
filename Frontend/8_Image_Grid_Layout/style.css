@@ -1,6 +1,7 @@
 .main {
+    width: 1280px;
+    height: 100vh;
     display: grid;
-    grid-gap: 20px;
+    justify-content: space-around;
     grid-template-columns: repeat(3, 1fr);
 }
-
