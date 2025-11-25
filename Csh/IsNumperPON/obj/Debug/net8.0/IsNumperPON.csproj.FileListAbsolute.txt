@@ -1,0 +1,15 @@
+/home/maryna/School/recall/Csh/IsNumperPON/obj/Debug/net8.0/IsNumperPON.GeneratedMSBuildEditorConfig.editorconfig
+/home/maryna/School/recall/Csh/IsNumperPON/obj/Debug/net8.0/IsNumperPON.AssemblyInfoInputs.cache
+/home/maryna/School/recall/Csh/IsNumperPON/obj/Debug/net8.0/IsNumperPON.AssemblyInfo.cs
+/home/maryna/School/recall/Csh/IsNumperPON/obj/Debug/net8.0/IsNumperPON.csproj.CoreCompileInputs.cache
+/home/maryna/School/recall/Csh/IsNumperPON/obj/Debug/net8.0/IsNumperPON.sourcelink.json
+/home/maryna/School/recall/Csh/IsNumperPON/bin/Debug/net8.0/IsNumperPON
+/home/maryna/School/recall/Csh/IsNumperPON/bin/Debug/net8.0/IsNumperPON.deps.json
+/home/maryna/School/recall/Csh/IsNumperPON/bin/Debug/net8.0/IsNumperPON.runtimeconfig.json
+/home/maryna/School/recall/Csh/IsNumperPON/bin/Debug/net8.0/IsNumperPON.dll
+/home/maryna/School/recall/Csh/IsNumperPON/bin/Debug/net8.0/IsNumperPON.pdb
+/home/maryna/School/recall/Csh/IsNumperPON/obj/Debug/net8.0/IsNumperPON.dll
+/home/maryna/School/recall/Csh/IsNumperPON/obj/Debug/net8.0/refint/IsNumperPON.dll
+/home/maryna/School/recall/Csh/IsNumperPON/obj/Debug/net8.0/IsNumperPON.pdb
+/home/maryna/School/recall/Csh/IsNumperPON/obj/Debug/net8.0/IsNumperPON.genruntimeconfig.cache
+/home/maryna/School/recall/Csh/IsNumperPON/obj/Debug/net8.0/ref/IsNumperPON.dll
