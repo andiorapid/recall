@@ -1,3 +1,3 @@
 <?php
 
-$filename = "text.txt";
+$fileName = "text.txt";
