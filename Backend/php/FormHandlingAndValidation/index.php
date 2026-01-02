@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Form Handling</title>
+  </head>
+  <body>
+<form method="post" action="process_form.php">
+      <label for="username">Username:</label>
+      <input type="text" name="username" id="username" required>
+      <label for="password">Password:</label>
+      <input type="password" name="password" id="password" required>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+</html>
